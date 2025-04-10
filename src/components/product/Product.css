@@ -1,0 +1,9 @@
+
+
+
+.card-image img {
+    width: 220px !important;
+    height: 200px !important;
+    margin-left: 1rem;
+    padding: 1rem;
+}

@@ -1,0 +1,45 @@
+
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+/* body {
+  padding: 0;
+  margin: 0;
+} */
+/*
+  #00100F, #072F2E, #017481, #0092A2, #85B7B6
+*/
+.primary-bg {
+  background-color: #00100F;
+}
+
+.secondary-bg {
+  background-color: #FF6E1E !important;
+}
+
+.tertiary-bg {
+  background-color: #017481;
+  color: #85B7B6
+}
+
+.py-2 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.product-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.product-price {
+  font-size: 1.1rem;
+  color: #f57224;
+  font-weight: 500;
+}
