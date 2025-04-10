@@ -30,6 +30,4 @@ yarn start or npm run dev
 OR
 npm run vite // to access projct within the network
 
-```
 
-_Happy Coding! :heart: :beer:_
